@@ -1,0 +1,9 @@
+
+q
+java:S11922"ODefine a constant instead of duplicating this literal "List is empty!" 3 times.(ÕËÍ¹úÿÿÿÿ8›á©Ö¡2
+L	java:S1062"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8Õç§Ö¡2
+L	java:S106Z"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8Êá©Ö¡2
+L	java:S106u"+Replace this use of System.out by a logger.(Ÿ™’şüÿÿÿÿ8Ïá©Ö¡2
+L	java:S106{"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8Óá©Ö¡2
+M	java:S106‚"+Replace this use of System.out by a logger.(µà®Æşÿÿÿÿ8Õá©Ö¡2
+M	java:S106†"+Replace this use of System.out by a logger.(µà®Æşÿÿÿÿ8×á©Ö¡2

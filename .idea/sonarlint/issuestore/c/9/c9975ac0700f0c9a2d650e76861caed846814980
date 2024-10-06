@@ -1,0 +1,12 @@
+
+r
+java:S1192A"PDefine a constant instead of duplicating this literal "List is empty !" 5 times.(ÕËÍ¹úÿÿÿÿ8Ïê¿Ÿœ2
+v	java:S135Ÿ"YReduce the total number of break and continue statements in this loop to use at most one.(‡‰Å‹8Ğê¿Ÿœ2
+L	java:S106A"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8‹ë¿Ÿœ2
+L	java:S106I"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8Œë¿Ÿœ2
+L	java:S106X"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8ë¿Ÿœ2
+G	java:S106^"+Replace this use of System.out by a logger.(¹íæô8ë¿Ÿœ2
+L	java:S106e"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8ë¿Ÿœ2
+G	java:S106k"+Replace this use of System.out by a logger.(¹íæô8ë¿Ÿœ2
+M	java:S106‹"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8’ë¿Ÿœ2
+M	java:S106—"+Replace this use of System.out by a logger.(ÿ†“’üÿÿÿÿ8 ë¿Ÿœ2

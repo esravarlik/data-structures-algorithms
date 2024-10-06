@@ -1,0 +1,30 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "List is empty!" 5 times.(òé±Ê8º¸¶¸–2
+v	java:S135‘"YReduce the total number of break and continue statements in this loop to use at most one.(‡âë£8º¸¶¸–2
+U
+java:S1854%"8Remove this useless assignment to local variable "temp".(œ¯¥³8”¹¶¸–2
+Z
+java:S1854#"8Remove this useless assignment to local variable "temp".(ÓË†ûüÿÿÿÿ8”¹¶¸–2
+L	java:S106 "+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8•¹¶¸–2
+K
+java:S1481#")Remove this unused "temp" local variable.(ÓË†ûüÿÿÿÿ8•¹¶¸–2
+^
+java:S1854?"<Remove this useless assignment to local variable "previous".(‘ÇÌìûÿÿÿÿ8–¹¶¸–2
+L	java:S1067"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8—¹¶¸–2
+U
+java:S1854w"8Remove this useless assignment to local variable "temp".(œ¯¥³8™¹¶¸–2
+Z
+java:S1854u"8Remove this useless assignment to local variable "temp".(ÓË†ûüÿÿÿÿ8™¹¶¸–2
+V
+java:S1854€"8Remove this useless assignment to local variable "temp".(œ¯¥³8™¹¶¸–2
+Z
+java:S1854~"8Remove this useless assignment to local variable "temp".(Í–ã¡úÿÿÿÿ8™¹¶¸–2
+L	java:S106p"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8š¹¶¸–2
+K
+java:S1481u")Remove this unused "temp" local variable.(ÓË†ûüÿÿÿÿ8š¹¶¸–2
+K
+java:S1481~")Remove this unused "temp" local variable.(Í–ã¡úÿÿÿÿ8›¹¶¸–2
+M	java:S106‡"+Replace this use of System.out by a logger.(ÿ†“’üÿÿÿÿ8›¹¶¸–2
+M	java:S106¬"+Replace this use of System.out by a logger.(ÕËÍ¹úÿÿÿÿ8¹¶¸–2
+M	java:S106²"+Replace this use of System.out by a logger.(µà®Æşÿÿÿÿ8¹¶¸–2
