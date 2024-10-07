@@ -55,3 +55,11 @@ P
  src/html_matched/SinglyNode.java,2\0\206779d5d582df6941db56736f1a5a931e6338f8
 J
 src/html_matched/text.html,e\7\e7d7465d1258877cbb5eec27bb42c6d7dbc1fe73
+_
+/src/circularly_linked_queue/CircularlyNode.java,e\e\eed3080c6ca337eba500590cd3a9b703cb4e4acb
+e
+5src/circularly_linked_queue/CircularlyLinkedList.java,1\a\1ac6526f7db1876b396115e3210ea8249887a42d
+f
+6src/circularly_linked_queue/CircularlyLinkedQueue.java,9\8\98fe00e24063515106cf57a37d63f38836a86fb2
+U
+%src/circularly_linked_queue/Main.java,7\c\7cc28e372e93ce51928dfa03053a0eff8545b5f5
