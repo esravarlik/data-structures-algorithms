@@ -63,3 +63,25 @@ f
 6src/circularly_linked_queue/CircularlyLinkedQueue.java,9\8\98fe00e24063515106cf57a37d63f38836a86fb2
 U
 %src/circularly_linked_queue/Main.java,7\c\7cc28e372e93ce51928dfa03053a0eff8545b5f5
+J
+src/basic/stack/Stack.java,2\8\28e894524763c7456f82ae9daa9f190566a12ca9
+I
+src/basic/stack/Main.java,0\4\041bafb6382b1d85aa1e7f2f11b5c20b15cfed32
+J
+src/basic/queue/Queue.java,7\5\75800d63ee1e4c4003af72fdd7e280788cddf7c0
+I
+src/basic/queue/Main.java,b\b\bb648fc88b7950892f074d5a515db875f17f9717
+K
+src/basic/queue/QueueC.java,3\e\3eb946b3ed17894ce510d1954cf409e5f920e686
+Z
+*src/basic/cicular_queue/CircularQueue.java,8\7\87467eef74312d014ca35254ea17a1e6b582120c
+Q
+!src/basic/cicular_queue/Main.java,c\e\ce30528b70b3556f883b4c8e9a2adfb4f2c6e216
+U
+%src/basic/linked_list/LinkedList.java,4\f\4f07b8974a15347396531dcbee2bcfb0663e23c1
+O
+src/basic/linked_list/Main.java,d\0\d0e55a44deab3bb6ec562cd99d59cc25d612bfc4
+j
+:src/basic/linked_list_operations/LinkedListOperations.java,f\9\f95bd0fe3900aec5a0649a189c05228b83e56928
+Z
+*src/basic/linked_list_operations/Main.java,2\e\2e4ff1517659f5535ea5e1960edee7758864ec7b

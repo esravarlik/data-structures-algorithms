@@ -1,0 +1,18 @@
+
+D
+java:S1659""Declare "rear" on a separate line.(Ì§ò¨úÿÿÿÿ8×Ÿë´¨2
+G
+java:S1197"*Move the array designators [] to the type.(¦üåÎ8ÚŸë´¨2
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(†ïÌ98ÛŸë´¨2
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ô±™Ö8ÜŸë´¨2
+G	java:S106"+Replace this use of System.out by a logger.(ş…ËÎ8ßŸë´¨2
+G	java:S106#"+Replace this use of System.out by a logger.(øß¿Æ8àŸë´¨2
+L	java:S106*"+Replace this use of System.out by a logger.(»ıéŠùÿÿÿÿ8âŸë´¨2
+G	java:S1064"+Replace this use of System.out by a logger.(¡ «8äŸë´¨2
+L	java:S106<"+Replace this use of System.out by a logger.(ïüôÄşÿÿÿÿ8æŸë´¨2
+L	java:S106>"+Replace this use of System.out by a logger.(ïì€øşÿÿÿÿ8çŸë´¨2
+G	java:S106?"+Replace this use of System.out by a logger.(‰ÿ‘È8èŸë´¨2
+G	java:S106A"+Replace this use of System.out by a logger.(‰áğØ8êŸë´¨2
+G	java:S106C"+Replace this use of System.out by a logger.(‘Ÿı8êŸë´¨2
