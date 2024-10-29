@@ -71,8 +71,6 @@ J
 src/basic/queue/Queue.java,7\5\75800d63ee1e4c4003af72fdd7e280788cddf7c0
 I
 src/basic/queue/Main.java,b\b\bb648fc88b7950892f074d5a515db875f17f9717
-K
-src/basic/queue/QueueC.java,3\e\3eb946b3ed17894ce510d1954cf409e5f920e686
 Z
 *src/basic/cicular_queue/CircularQueue.java,8\7\87467eef74312d014ca35254ea17a1e6b582120c
 Q
@@ -85,3 +83,9 @@ j
 :src/basic/linked_list_operations/LinkedListOperations.java,f\9\f95bd0fe3900aec5a0649a189c05228b83e56928
 Z
 *src/basic/linked_list_operations/Main.java,2\e\2e4ff1517659f5535ea5e1960edee7758864ec7b
+[
++src/students_sitting_at_the_table/Node.java,6\5\656130b2cc7cf5aed21bb4c65a8fc0364e3caf78
+f
+6src/students_sitting_at_the_table/JosephusProblem.java,3\e\3ee0e1cb7f5723efbf0bb905fbe87d5bcbc7ce2b
+[
++src/students_sitting_at_the_table/Main.java,0\8\081e0d4cce20ddc6b3bbf97c5688357cca1793ab

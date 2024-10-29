@@ -1,0 +1,11 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ä«µ8Ô½‰¹¨2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ä«µ8Õ½‰¹¨2
+_
+java:S2259,"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅŞŒ8æ½‰¹¨2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ô™²˜8¶×Í¸¨2
+G	java:S106("+Replace this use of System.out by a logger.(Ñ±§8ú½€¹¨2
+G	java:S1061"+Replace this use of System.out by a logger.(†ıÌ“8ì½‰¹¨2
+G	java:S1064"+Replace this use of System.out by a logger.(ì ã8ì½‰¹¨2
+L	java:S1067"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8í½‰¹¨2
